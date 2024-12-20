@@ -2,10 +2,17 @@
   "name": "widget_player",
   "version": "1.0.0",
   "description": "creacion de un widget para musica basico",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^33.2.1"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
 }
