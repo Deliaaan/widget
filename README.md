@@ -1,2 +1,3 @@
-# widget
-a ver si logro hacer un widget con electron y que controle mi perra musica
+# Widget music player
+
+Mini proyecto para hacer un controlador de musica para windows usando `electron js`
